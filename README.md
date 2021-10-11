@@ -4,11 +4,11 @@
 
 - I’m looking to collaborate on **anything I can learn from. 😉**
 
-- All of my projects are available at [https://codepen.io/sanjanastyles/pen/wvojXVg](https://sanjanastyles.github.io/Personal_portfolio/)
+- All of my projects are available [Here](https://sanjanastyles.github.io/Personal_portfolio/)
 
 - How to reach me **sanjana2842002@gmail.com**
 
-- Know about my experiences [https://drive.google.com/drive/folders/1eQgj5O9x0lha2653o0-3F65J2-ENaf7g?usp=sharing](https://drive.google.com/drive/folders/1eQgj5O9x0lha2653o0-3F65J2-ENaf7g?usp=sharing)
+- Know about my experiences [Here](https://drive.google.com/drive/folders/1eQgj5O9x0lha2653o0-3F65J2-ENaf7g?usp=sharing)
 
 - Fun fact **People find me interesting ✨**
 
