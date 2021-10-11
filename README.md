@@ -4,7 +4,7 @@
 
 - I’m looking to collaborate on **anything I can learn from. 😉**
 
-- All of my projects are available at [https://codepen.io/sanjanastyles/pen/wvojXVg](https://codepen.io/sanjanastyles/pen/wvojXVg)
+- All of my projects are available at [https://codepen.io/sanjanastyles/pen/wvojXVg](https://sanjanastyles.github.io/Personal_portfolio/)
 
 - How to reach me **sanjana2842002@gmail.com**
 
