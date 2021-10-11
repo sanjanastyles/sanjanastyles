@@ -11,6 +11,8 @@
 - Know about my experiences [Here](https://drive.google.com/drive/folders/1eQgj5O9x0lha2653o0-3F65J2-ENaf7g?usp=sharing)
 
 - Fun fact **People find me interesting ✨**
+<br /><br />
+![image](https://64.media.tumblr.com/ae05921060856e2ce86ebb8eea25fe21/tumblr_psdjxgMRMo1t9q05y_500.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
