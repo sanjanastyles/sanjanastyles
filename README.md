@@ -1,7 +1,5 @@
 <h1 align="center">Welcome to Sanjana's GitHub</h1>
 
-- I’m currently working on **a discord bot.**
-
 - I’m currently learning **a lot of things.**
 
 - I’m looking to collaborate on **anything I can learn from. 😉**
