@@ -20,6 +20,7 @@
 <a href="https://linkedin.com/in/sanjana-mondal-6b727b1aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjana-mondal-6b727b1aa" height="30" width="40" /></a>
 <a href="https://instagram.com/sanjanastyles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanjanastyles" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sharpkatana" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sharpkatana" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sanjana2842002" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/480px-HackerRank_Icon-1000px.png" alt="sanjana2842002" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
