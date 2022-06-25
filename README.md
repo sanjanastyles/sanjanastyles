@@ -1,5 +1,4 @@
 <p align="center"><a href="https://sanjanastyles.github.io/Personal_portfolio/" target="blank"><img src="https://cdn.discordapp.com/attachments/820201141131935765/990234171509194762/Untitled154_20220625180655.png" alt="Hi I am Sanjana" style="width:500px; height:200px;"></a></p>
--I'm a self-taught passionate FrontEnd developer from India 
 
 - All of my projects are available [Here](https://sanjanastyles.github.io/Personal_portfolio/)
 <br /><br />
