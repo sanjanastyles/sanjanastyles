@@ -1,16 +1,8 @@
 <h1 align="center">Welcome to Sanjana's GitHub</h1>
 
-- I’m currently learning **a lot of things.**
-
-- I’m looking to collaborate on **anything I can learn from. 😉**
+-I'm a self-taught passionate FrontEnd developer from India 
 
 - All of my projects are available [Here](https://sanjanastyles.github.io/Personal_portfolio/)
-
-- How to reach me **sanjana2842002@gmail.com**
-
-- Know about my experiences [Here](https://drive.google.com/drive/folders/1eQgj5O9x0lha2653o0-3F65J2-ENaf7g?usp=sharing)
-
-- Fun fact **People find me interesting ✨**
 <br /><br />
 ![image](https://64.media.tumblr.com/ae05921060856e2ce86ebb8eea25fe21/tumblr_psdjxgMRMo1t9q05y_500.gif)
 
