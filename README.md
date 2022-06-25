@@ -17,5 +17,5 @@ A full-stack developer, good at frontEnd development.✨</br></br>
 <a href="https://code.visualstudio.com" target="_blank"> <img src="https://img.icons8.com/fluency/344/visual-studio.png" alt="VScode" width="40" height="40"/></a>
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/344/bootstrap.png" alt="VScode" width="40" height="40"/></a></p>
 
-![Sanjana's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjanastyles&hide=prs&count_private=true&show_icons=true&theme=radical) &nbsp; 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjanastyles&layout=compact&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=sanjanastyles&hide=prs&count_private=true&show_icons=true&theme=radical) &nbsp; 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjanastyles&layout=compact&theme=radical)
