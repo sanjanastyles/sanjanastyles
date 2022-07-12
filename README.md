@@ -1,6 +1,9 @@
 <p align="center"><a href="https://sanjanastyles.github.io/Personal_portfolio/" target="blank"><img src="https://cdn.discordapp.com/attachments/820201141131935765/990234171509194762/Untitled154_20220625180655.png" alt="Hi I am Sanjana" style="width:500px; height:200px;"></a></p>
 
-![image](https://64.media.tumblr.com/ae05921060856e2ce86ebb8eea25fe21/tumblr_psdjxgMRMo1t9q05y_500.gif)
+<p align="center">
+  <img src="https://64.media.tumblr.com/ae05921060856e2ce86ebb8eea25fe21/tumblr_psdjxgMRMo1t9q05y_500.gif" />
+</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
