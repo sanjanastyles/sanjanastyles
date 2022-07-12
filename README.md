@@ -8,6 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/sanjanastyles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sanjanastyles" height="30" width="40" /></a>
+<a href="https://codesandbox.io/u/sanjanastyles" target="blank"><img align="center" src="https://ziterz.gallerycdn.vsassets.io/extensions/ziterz/codesandbox-black-theme/1.2.5/1644299509867/Microsoft.VisualStudio.Services.Icons.Default" alt="sanjanastyles" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sanjana-mondal-6b727b1aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjana-mondal-6b727b1aa" height="30" width="40" /></a>
 <a href="https://instagram.com/sanjanastyles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanjanastyles" height="30" width="40" /></a>
 <!-- <a href="https://www.codechef.com/users/sharpkatana" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sharpkatana" height="30" width="40" /></a>
