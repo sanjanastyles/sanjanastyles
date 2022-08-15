@@ -11,6 +11,7 @@
 <a href="https://codesandbox.io/u/sanjanastyles" target="blank"><img align="center" src="https://ziterz.gallerycdn.vsassets.io/extensions/ziterz/codesandbox-black-theme/1.2.5/1644299509867/Microsoft.VisualStudio.Services.Icons.Default" alt="sanjanastyles" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sanjana-mondal-6b727b1aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjana-mondal-6b727b1aa" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sharpkatana" target="blank"><img align="center" src="https://avatars1.githubusercontent.com/u/11960354?s=460&v=4" alt="sharpkatana" height="30" width="40" /></a>
+<a href="https://ko-fi.com/sharplikekatana"><img align="center" src="https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/61e111774d3a2f67c827cd25_Frame%205.png" alt="Ko-Fi" height="30" width="40"/></a>
 <!-- <a href="https://www.hackerrank.com/sanjana2842002" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/480px-HackerRank_Icon-1000px.png" alt="sanjana2842002" height="30" width="40" /></a> -->
 </p>
 
