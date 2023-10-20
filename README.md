@@ -32,6 +32,11 @@
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/344/bootstrap.png" alt="VScode" width="40" height="40"/></a>
     </p>
 
+<div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjanastyles&count_private=true&include_all_commits=true&theme=dark" alt="GitHub Streak" width="400px">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjanastyles&show_icons=true&count_private=true&include_all_commits=true&theme=dark" alt="GitHub Stats" width="400px">
+</div>
+
 <!-- ![](https://github-readme-stats.vercel.app/api?username=sanjanastyles&hide=prs&theme=radical) &nbsp; -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjanastyles&layout=compact&theme=radical)
 
